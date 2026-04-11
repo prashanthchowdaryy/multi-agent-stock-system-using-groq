@@ -45,5 +45,4 @@ Find stock symbols for Apple and Google, fetch their stock data, and compare the
 Multi-agent systems increase API usage and may require optimization for production environments.
 
 ## Purpose
-
 This project explores agent collaboration and how complex tasks can be broken down across multiple specialized agents.
