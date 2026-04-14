@@ -31,7 +31,6 @@ python groq_multi_agent.py
 Find stock symbols for Apple and Google, fetch their stock data, and compare them.
 
 ## Features
-
 * Multi-agent coordination
 * Step-based execution
 * Retry mechanism for handling failures
