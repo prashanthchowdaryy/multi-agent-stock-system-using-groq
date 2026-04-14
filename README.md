@@ -16,7 +16,6 @@ The system consists of multiple agents:
 * yFinance
 
 ## Installation
-
 pip install phidata groq yfinance python-dotenv
 
 ## Environment Setup
