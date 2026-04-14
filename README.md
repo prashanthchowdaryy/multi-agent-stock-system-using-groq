@@ -5,13 +5,11 @@ This project implements a multi-agent architecture where different agents collab
 ## Overview
 
 The system consists of multiple agents:
-
 * A company lookup agent to find stock symbols
 * A stock agent to retrieve financial data
 * A coordinating agent to combine results
 
 ## Tech Stack
-
 * Python
 * Phidata
 * Groq API
