@@ -23,7 +23,6 @@ pip install phidata groq yfinance python-dotenv
 GROQ_API_KEY=your_api_key_here
 
 ## Usage
-
 python groq_multi_agent.py
 
 ## Example Query
